@@ -6,6 +6,7 @@ begin
   aux2:= 0;
   cont:= 0;
   repeat
+    write('escribir numero');
     read(aux);
     if (aux > 5) then
       cont:= (cont + 1);
@@ -18,8 +19,3 @@ begin
 end.
 
 
-2.
-Realice un programa que lea 10 números e informe cuál fue el mayor número leído. Por ejemplo, si
-se lee la secuencia:
-3 5 6 2 3 10 98 8 -12 9
-deberá informar: “El mayor número leído fue el 98”
