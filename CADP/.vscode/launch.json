@@ -8,7 +8,7 @@
             "name": "Debug P1p2E1a.pas",
             "type": "fpDebug",
             "request": "launch",
-            "program": "${workspaceFolder}/P1p2E1a"
+            "program": "${workspaceFolder}/P1p2E1a.pas"
         }
     ]
 }
