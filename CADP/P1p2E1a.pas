@@ -1,9 +1,9 @@
-program P1p2E1;
+program P1p2E1a;
 var
   i, aux, aux2,cont : integer;
 begin
   i:= 0;
-  aux2:= 0;
+  aux2:= 0
   cont:= 0;
   repeat
     write('escribir numero');

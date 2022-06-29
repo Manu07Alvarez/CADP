@@ -21,14 +21,12 @@ end.
 
 
 
-guardalo, si
-tiene a.
 
-tenes que sumar las posiciones, siempre, todas de 1 a 10, y cuando sume el max, ademas debe guardar la posicion un aux := i en el if.
-va?
 
-a. Modifique el programa anterior para que, además de informar el mayor número leído, se
-informe el número de orden, dentro de la secuencia, en el que fue leído. Por ejemplo, si se lee la
-misma secuencia:
-3 5 6 2 3 10 98 8 -12 9
-deberá informar: “El mayor número leído fue el 98, en la posición 7”
+//tenes que sumar las posiciones, siempre, todas de 1 a 10, y cuando sume el max, ademas debe guardar la posicion un aux := i en el if.
+
+//a. Modifique el programa anterior para que, además de informar el mayor número leído, se
+//informe el número de orden, dentro de la secuencia, en el que fue leído. Por ejemplo, si se lee la
+//misma secuencia:
+//3 5 6 2 3 10 98 8 -12 9
+//deberá informar: “El mayor número leído fue el 98, en la posición 7”
